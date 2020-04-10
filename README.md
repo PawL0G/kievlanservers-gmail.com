@@ -1,5 +1,14 @@
 # Test webpage
 
+What's added:
+
+```
+* routing page to Service (on navbar)
+* added scrolling flex elements using flexbox technology
+* added config vue.js, eslint, vue.router
+* structured elements appears on media querries
+```
+
 ## Project setup
 ```
 npm install
