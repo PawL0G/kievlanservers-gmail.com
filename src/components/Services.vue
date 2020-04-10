@@ -52,7 +52,7 @@
 <script>
     import MainLayout from "./MainLayout";
     export default {
-        name: 'Portfolio',
+        name: 'Services',
         props: {
             msg: String
         },
